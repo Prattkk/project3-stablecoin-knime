@@ -46,5 +46,17 @@ https://dune.com/prattkk/dai-dashboard-story?utm_source=share&utm_medium=copy&ut
 3. Configure MongoDB Connector with your Atlas credentials
 4. Execute nodes from left → right
 
+## Key Insights
+- PYUSD transaction activity increased steadily through mid-2024 before stabilizing.
+- A small number of months contributed disproportionately to total transactions.
+- The top 3 months accounted for the highest transaction volumes, indicating peak network usage periods.
+
+## Skills Demonstrated
+- Data integration (MongoDB, Dune)
+- Data cleaning and deduplication
+- Time-series analysis
+- Aggregation and ranking
+- Business-focused data storytelling
+
 ## Author
 Prateek Verma
